@@ -1,0 +1,14 @@
+{
+  "name": "micasita-bs",
+  "version": "1.0.0",
+  "description": "Redesign Mi Casita Preschool Webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ariel Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1"
+  }
+}
